@@ -1,6 +1,6 @@
 # Repository for documenting credit scorecard model development process learnt
 
-The Jupyter Notebook (Credit Scorecard with scorecardpy)  and data (hmeq_data.csv) in this repository are provided as part of lab practice in the Financial Analytics module taught in the Singapore Management University(SMU)'s School of Computing and Information Systems(SCIS).
+The Jupyter Notebook (Credit Scorecard with scorecardpy.ipynb)  and data (hmeq_data.csv) in this repository are provided as part of lab practice in the Financial Analytics module taught in the Singapore Management University(SMU)'s School of Computing and Information Systems(SCIS).
 The Jupyter Notebook contain Python codes on the process to developing a credit scorecard model, which helps to determine the credit score of loan applicants and the likelihood of them defaulting on loans. It brings value to financial institutions offering lending services because majority of these financial institutions' revenue comes from lending and thus reducing the default rates of loan applicants would reduce revenue losses.
 
 Here is an outline of the process of developing a credit scorecard model:
