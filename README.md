@@ -8,7 +8,7 @@ Here is an outline of the process of developing a credit scorecard model:
 - Data Exploration
 - Data Preparation/Pre-processing
 - Initial Characteristic Analysis ( Weight of Evidence(WOE) binning and univariate screening)
--Training and evaluating machine learning model (in this case logistic regression)
+- Training and evaluating machine learning model (in this case logistic regression)
 - Credit scorecard generation
 
 The python package `scorecardpy` (https://github.com/ShichenXie/scorecardpy)  is used to make the process of credit scorecard model development more efficient.
